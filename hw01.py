@@ -5,8 +5,8 @@ Created on Fri Sep 13 19:27:52 2024
 @author: gavin
 """
 
-# Author: Your Name / your_email
-# Date: 2024-09-01
+# Author: Gavin Cramer / gmc0069@auburn.edu
+# Date: 2024-09-17
 # Assignment Name: hw01
 
 import sys
